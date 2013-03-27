@@ -1,2 +1,4 @@
 gtiff2png converts a GeoTIFF into a PNG heightmap and corresponding text file
 containing location information
+
+This script requires the GDAL library to be installed, you can probably find it by searching your operating system's package repository.
